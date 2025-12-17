@@ -1,5 +1,5 @@
 {
-    "name": "/filament-auth-designer",
+    "name": "adultdate/filament-auth-designer",
     "description": "Transform Filament's default auth pages into stunning, brand-ready experiences",
     "keywords": [
         "adultdate",
@@ -14,8 +14,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "caresome",
-            "email": "caresome@gmail.com",
+            "name": "adultdate",
+            "email": "adultdate@gmail.com",
             "role": "Developer"
         }
     ],
