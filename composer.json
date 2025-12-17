@@ -1,8 +1,8 @@
 {
-    "name": "caresome/filament-auth-designer",
+    "name": "/filament-auth-designer",
     "description": "Transform Filament's default auth pages into stunning, brand-ready experiences",
     "keywords": [
-        "caresome",
+        "adultdate",
         "laravel",
         "filament",
         "filament-plugin",
@@ -10,12 +10,12 @@
         "authentication",
         "auth-pages"
     ],
-    "homepage": "https://github.com/caresome/filament-auth-designer",
+    "homepage": "https://github.com/adultdate/filament-auth-designer",
     "license": "MIT",
     "authors": [
         {
-            "name": "Caresome",
-            "email": "dev@caresome.app",
+            "name": "caresome",
+            "email": "caresome@gmail.com",
             "role": "Developer"
         }
     ],
