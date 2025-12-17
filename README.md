@@ -1,6 +1,6 @@
 # Filament Auth Designer
 
-[![Latest Version](https://img.shields.io/packagist/v/caresome/filament-auth-designer.svg?style=flat-square)](https://packagist.org/packages/caresome/filament-auth-designer)
+[![Latest Version](https://img.shields.io/packagist/v/adultdate/filament-auth-designer.svg?style=flat-square)](https://packagist.org/packages/adultdate/filament-auth-designer)
 
 Transform Filament's default authentication pages into stunning, brand-ready experiences with customizable layouts, media backgrounds, and theme switching.
 
@@ -50,7 +50,7 @@ Transform Filament's default authentication pages into stunning, brand-ready exp
 ## Installation
 
 ```bash
-composer require caresome/filament-auth-designer
+composer require adultdate/filament-auth-designer
 ```
 
 ## Quick Start
